@@ -11,4 +11,4 @@ The following website should be concise and well coded, with the resulting image
 
 
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/Capture1.PNG)(./assets/images/Capture2.PNG)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/Capture1.PNG)
